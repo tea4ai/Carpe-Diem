@@ -52,8 +52,7 @@ Unity 6000.3.10f1 (Unity 6.3 LTS), Universal Render Pipeline (2D), C#.
 The third-party art is not included in this repository. To open the project, install Unity `Unity 6000.3.10f1`, clone the repo, and import the assets below into the project:
 
 - Dragon Warrior sprites: `https://assetstore.unity.com/packages/2d/characters/dragon-warrior-free-93896`
-- Knight sprites: `https://assetstore.unity.com/search?q=knight+2d`<img width="1920" height="1080" alt="menu" src="https://github.com/user-attachments/assets/e7bb83f9-abcb-4382-8272-333dbc13536b" />
-
+- Knight sprites: `https://assetstore.unity.com/search?q=knight+2d`
 ## Credits
 
 - Music generated with ElevenLabs
