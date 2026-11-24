@@ -1,0 +1,58 @@
+
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emory[Cc]aptures/
+/[Rr]ecordings/
+
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.userprefs
+*.unityproj
+
+sysinfo.txt
+crashlytics-build.properties
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+
+.DS_Store
+Thumbs.db
+
+.plastic/
+plastic.*
+.plastic*
+ignore.conf
+
+# /Assets/SomeFreeAssetFolder/
+# /Assets/SomeFreeAssetFolder.meta
+# Extra for this project
+Assets.private.*/
+ProfilerCaptures/
+Builds.zip
+*.zip
+*.slnx
+.vsconfig
+# Third-party assets (free, Unity Asset Store) - see README
+/Assets/Scenes/basicStuff/TileMap/
+/Assets/Scenes/basicStuff/TileMap.meta
+/Assets/Scenes/mainGamePart/Dragon Warrior Files/
+/Assets/Scenes/mainGamePart/Dragon Warrior Files.meta
+/Assets/Scenes/mainGamePart/Enemy/Knight Files/
+/Assets/Scenes/mainGamePart/Enemy/Knight Files.meta
+# Plastic SCM leftovers
+*.private.*
+/Assets/PlayerPrefsEditor/
+/Assets/PlayerPrefsEditor.meta

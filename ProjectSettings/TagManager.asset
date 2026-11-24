@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Deadly
+  - Patroller
+  - Chaser
+  - Win
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - GameOver
+  - BrightnessVolume
+  - WinArea
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sky
+    uniqueID: 2564984715
+    locked: 0
+  - name: BackerGround
+    uniqueID: 3371036479
+    locked: 0
+  - name: BackGround(1)
+    uniqueID: 71638803
+    locked: 0
+  - name: Decoration
+    uniqueID: 3335226655
+    locked: 0
+  - name: KillZone
+    uniqueID: 2519013491
+    locked: 0
+  - name: Ground
+    uniqueID: 1469440975
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Grass
+    uniqueID: 3949995535
+    locked: 0
+  - name: Visuals
+    uniqueID: 3148026565
+    locked: 0
+  m_RenderingLayers:
+  - Default
